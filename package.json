@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "@nestjs/mapped-types": "*"
+  },
   "name": "nest-learn",
   "version": "1.0.0",
   "description": "",
